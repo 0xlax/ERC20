@@ -1,0 +1,26 @@
+{
+  "name": "erc20",
+  "version": "0.1.0",
+  "description": "A simple ethereum smart contract using python, brownie and solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshithlaxman/ERC20.git"
+  },
+  "keywords": [
+    "solidity",
+    "python"
+  ],
+  "author": "Harshithlaxman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshithlaxman/ERC20/issues"
+  },
+  "homepage": "https://github.com/harshithlaxman/ERC20#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0"
+  }
+}
